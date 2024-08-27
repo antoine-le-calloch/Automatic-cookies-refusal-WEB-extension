@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Cookies Blocker",
+  "version": "1.0",
+  "description": "A browser extension designed to automatically refuse unnecessary cookies on websites."
+}
