@@ -11,6 +11,7 @@
     "activeTab"
   ],
   "background": {
-    "service_worker": "blocker.js"
+    "scripts": ["blocker.js"],
+    "persistent": false
   }
 }
