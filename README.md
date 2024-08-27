@@ -1,4 +1,4 @@
-# Cookies refusal WEB extension
+# Cookies blocker
 ## Overview
 A browser extension designed to automatically refuse unnecessary cookies on websites.
 
