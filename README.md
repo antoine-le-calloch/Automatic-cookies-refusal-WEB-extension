@@ -1,6 +1,6 @@
-# Automatic cookies refusal WEB extension
+# Cookies refusal WEB extension
 ## Overview
-A browser extension designed to automatically refuse cookie consent requests on websites.
+A browser extension designed to automatically refuse unnecessary cookies on websites.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
