@@ -1,7 +1,5 @@
 # Cookies blocker
 ## Overview
-A browser extension designed to automatically refuse unnecessary cookies on websites.
+A browser extension crafted to automatically refuse unnecessary cookies on websites.
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-For any questions or feedback, please reach out to antoine.le.calloch@gmail.com.
+*This project is licensed under the MIT License. See the LICENSE file for details.<br> For any questions or feedback, please reach out to antoine.le.calloch@gmail.com.*
