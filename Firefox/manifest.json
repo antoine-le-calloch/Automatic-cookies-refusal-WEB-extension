@@ -5,7 +5,8 @@
   "version": "1.0",
   "description": "A browser extension designed to automatically refuse unnecessary cookies on websites.",
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
   },
   "permissions": [
     "activeTab",
