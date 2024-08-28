@@ -6,7 +6,7 @@
   "description": "A browser extension designed to automatically refuse unnecessary cookies on websites.",
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "icon.png"
+    "default_icon": "logo.png"
   },
   "permissions": [
     "activeTab",
