@@ -1,0 +1,41 @@
+.content{
+    margin: 0;
+    padding: 0.7rem;
+    background: linear-gradient(#a38675, #c5ae9f);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    max-width: 450px;
+}
+
+.logo{
+    width: 40px;
+    display: block;
+}
+
+.content-header{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-weight: bold;
+}
+
+.content-body{
+    font-weight: bold;
+    margin: 2rem 0;
+    display: flex;
+}
+
+.content-footer{
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+h1{
+    margin: 0
+}
+
+a{
+    font-weight: bold;
+    color: beige;
+    text-decoration: none;
+}
